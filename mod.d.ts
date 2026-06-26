@@ -20,7 +20,7 @@
 
 /* eslint-disable @typescript-eslint/unified-signatures */
 
-/// <reference types="@stdlib/types"/>
+/// <reference types="https://cdn.jsdelivr.net/gh/stdlib-js/types@main/index.d.ts"/>
 
 import { Order, Mode, int32ndarray, Shape2D } from '@stdlib/types/ndarray';
 import { Collection, AccessorArrayLike, ArrayLike } from '@stdlib/types/array';
